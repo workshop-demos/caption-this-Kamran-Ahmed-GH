@@ -1,4 +1,5 @@
-# GitHub for Developers Conf1
+# GitHub for Developers Conflict 2
+
 
 - Class Date: THIS-DATE
 - Facilitator: @TEACHER-HANDLE
